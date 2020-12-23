@@ -9,7 +9,7 @@ body {
  display: flex;
  justify-content: center;
  align-items: center;
- min-height: 600vh;
+ min-height: 80vh;
  background-color: black;
 
 }
@@ -18,7 +18,7 @@ body {
 
     position: relative;
     color:white;
-    font-size: 5em;
+    font-size: 10em;
     text-shadow:0 0 50px rgb(255, 208, 0),
                  0 0 100px rgb(252, 252, 252),
                  0 0 150px rgb(255, 230, 0),
